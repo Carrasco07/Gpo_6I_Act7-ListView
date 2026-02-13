@@ -2,6 +2,9 @@
 
 <img width="300" height="497" alt="image" src="https://github.com/user-attachments/assets/fb810303-18dd-427c-a5b1-81268f897a36" />
 
+<img width="1241" height="505" alt="image" src="https://github.com/user-attachments/assets/1cd0225a-cc65-41e3-a388-33dd838d4d70" />
+
+
 A new Flutter project.
 
 ## Getting Started
